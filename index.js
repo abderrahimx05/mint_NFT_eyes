@@ -17,7 +17,6 @@ const ctx = canvas.getContext("2d");
 var metadataList = [];
 var attributesList = [];
 var dnaList = [];
-
 const saveImage = (_editionCount) => {
   fs.writeFileSync(
     `./output/${_editionCount}.png`,
