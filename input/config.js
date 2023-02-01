@@ -6,8 +6,8 @@ const description =
   "The Nerdy Coder Clones, eats, breaths, and dreams code, maybe because they were created by code. Only 1000 of these coders exist and was created by US .";
 const baseImageUri = "https://nerdycoderclones.online/metedata";
 const startEditionFrom = 1;
-const endEditionAt = 3;
-const editionSize = 3;
+const endEditionAt = 10000;
+const editionSize = 10000;
 const raceWeights = [
   {
     value: "nerd",
