@@ -192,61 +192,7 @@ const races = {
         position: { x: 0, y: 0 },
         size: { width: width, height: height },
       },
-      {
-        name: "Eyes",
-        elements: [
-          {
-            id: 0,
-            name: "Lazy",
-            path: `${dir}/eyes/lazy.png`,
-            weight: 100, //25%
-          },
-          {
-            id: 1,
-            name: "Lashes",
-            path: `${dir}/eyes/lashes.png`,
-            weight: 75, //25%
-          },
-          {
-            id: 2,
-            name: "Relaxed",
-            path: `${dir}/eyes/relaxed.png`,
-            weight: 50, //20%
-          },
-          {
-            id: 3,
-            name: "Squint",
-            path: `${dir}/eyes/squint.png`,
-            weight: 30, //15%
-          },
-          {
-            id: 4,
-            name: "Stare",
-            path: `${dir}/eyes/stare.png`,
-            weight: 15, //8%
-          },
-          {
-            id: 5,
-            name: "Vampire",
-            path: `${dir}/eyes/vampire.png`,
-            weight: 7, //4%
-          },
-          {
-            id: 6,
-            name: "Zombie",
-            path: `${dir}/eyes/zombie.png`,
-            weight: 3, //2%
-          },
-          {
-            id: 7,
-            name: "Alien",
-            path: `${dir}/eyes/alien.png`,
-            weight: 1, //1%
-          },
-        ],
-        position: { x: 0, y: 0 },
-        size: { width: width, height: height },
-      },
+     
       {
         name: "Eyewear",
         elements: [
